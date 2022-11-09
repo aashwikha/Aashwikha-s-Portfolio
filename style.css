@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(230, 127, 228);
+}
+.intro{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: solid; 
+    padding :4cm;
+    background-color: rgb(145,33,66);
+    border-width: 0.3cm; 
+    border-color: black;
+    border-radius: 2cm;
+    margin: 80px
+}
+.header{
+    font-size: 2cm;
+    background-color: pink;
+    border-radius: 2cm;
+    border-width: 0.2cm; 
+    border-color: black;
+    border-style: solid  ;
+}
